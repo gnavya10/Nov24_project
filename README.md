@@ -29,7 +29,7 @@ cypress/support/pom/resetlink.cy.js || cypress/support/pom/resetpasswordpage.cy.
 Additional Information Cypress configuration can be found in cypress.config.js. Test data is stored in cypress/fixtures.
 
 Video Walkthrough of the Manual Testing project and Automation Testing Project
-
+https://drive.google.com/file/d/1L_pXfnlDLsHp3c2xAdPB9xLN8o5Lh244/view?usp=sharing
 
 Features
 List out the key features of your application.
